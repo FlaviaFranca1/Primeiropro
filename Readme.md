@@ -3,6 +3,6 @@ começando a fazer sentido o uso do Git com o VS code
 repositório teste como o git funciona
 Saiba mais fazendo outros cursos
 
-abrir a pasta = pwd
+aber a pasta = pwd
 criar uma pasta = mkdir
-ls -l 
+ls -lfhdfxckfkdlsjfsdjfkdjkf
