@@ -6,3 +6,4 @@ Saiba mais fazendo outros cursos
 aber a pasta = pwd
 criar uma pasta = mkdir
 ls -lfhdfxckfkdlsjfsdjfkdjkf
+ndkfkdksdklfsldklkl
